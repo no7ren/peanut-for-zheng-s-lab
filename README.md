@@ -1,4 +1,4 @@
-# peanut-for-zheng-s-lab
+# project for paper
 This is the share place for small script
 
 I will update the readme if I've done anything
